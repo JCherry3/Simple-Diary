@@ -21,5 +21,5 @@ def main():
             else:
                 file.write(text + "\n\n")
                 text = input("Continue writing:\n")
-    print("Entry Complete")
+    print("Entry Saved")
     return
